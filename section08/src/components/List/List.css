@@ -1,0 +1,6 @@
+.List .search_box {
+    width: -webkit-fill-available;
+}
+.List .TodoItem_box {
+    margin-top: 20px;
+}

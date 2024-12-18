@@ -1,0 +1,7 @@
+.App {
+    width: 400px;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 50px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 10px rgba(0, 0, 0, 0.24);
+}
