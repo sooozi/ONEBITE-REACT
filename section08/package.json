@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "section05",
-=======
   "name": "section08",
->>>>>>> 4b75030be70d6680d421911f645e175f0542c9b9
   "private": true,
   "version": "0.0.0",
   "type": "module",

@@ -2,10 +2,10 @@ import "./Main.css";
 import Editor from "./Editor/Editor";
 import List from "./List/List";
 
-const Main = () => {
+const Main = ({ onCreate }) => { // onCreate를 props로 받음
   return (
     <>
-      <Editor />
+      <Editor onCreate={onCreate} />
       <List />
     </>
   )
