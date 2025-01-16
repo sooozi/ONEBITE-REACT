@@ -1,5 +1,6 @@
 import React, { useState, useRef } from 'react';
 //useRef: DOM 요소에 직접 접근하거나, 컴포넌트가 리렌더링될 때도 유지되는 값 저장 가능!
+import './Editor.css';
 
 const Editor = ({ onCreate }) => {
     const [content, setContent] = useState('');
