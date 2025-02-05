@@ -1,0 +1,18 @@
+#root {
+    margin: 2rem;
+}
+section {
+    background-color: #eee;
+    padding: 2rem;
+}
+section:not(:last-child) {
+    margin-bottom: 1rem;
+}
+section p {
+    margin: 0;
+}
+
+.App {
+    margin: 0 auto;
+    width: 400px;
+}
